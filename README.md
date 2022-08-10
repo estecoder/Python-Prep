@@ -29,13 +29,13 @@ Cualquier duda, nos puedes escribir a admisiones@soyhenry.com
 
 
 
-## Open House
+## Open House.
 
 En este video podrás conocer más sobre Henry, la carrera de Data Science y el proceso de admisión. 
 
 <div class="iframeContainer">
   <iframe src="https://player.vimeo.com/video/682041440" allow="autoplay; fullscreen" allowfullscreen>
-  <iframe>
+  </iframe>
 </div>
 
 El Henry Challenge se realiza los sabados, cada dos semanas. 
